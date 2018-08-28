@@ -1,5 +1,7 @@
 # Neighborhood React App for Udacity 
 This app was created from scratch as the final project of Udacity's Front End Web Development Nanodegree Program. It is a location app for the hotels in Thessaloniki, Greece.
+## Live Demo
+https://zoidev.github.io/Neighborhood-React-app
 ## Geting Started
 These instructions will get you a copy of the project up and running on your local machine for reviewing and developmet purposes. 
 ## Functionality 
